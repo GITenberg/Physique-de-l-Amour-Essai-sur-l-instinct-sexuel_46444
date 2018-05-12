@@ -1,4 +1,8 @@
 _repo: Physique-de-l-Amour-Essai-sur-l-instinct-sexuel_46444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gourmont, Remy de
@@ -18,6 +22,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46444#Physique-de-l-Amour-Essai-sur-l-instinct-sexuel
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2014-07-29'
 gutenberg_type: Text
